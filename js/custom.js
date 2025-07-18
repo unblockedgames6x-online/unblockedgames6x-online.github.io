@@ -1,3 +1,10 @@
+document.addEventListener("DOMContentLoaded", function() {
+    document.querySelectorAll('.navbar-brand.js-scroll-trigger').forEach(function(el) {
+        el.innerHTML = '<strong>Unblocked games 6x</strong>';
+        el.style.visibility = 'visible';
+    });
+});
+
 /*
 
 Custom script
