@@ -3,4 +3,4 @@ Disallow: /admin
 
 Allow: /sitemap.xml
 
-Sitemap:https://unblockedgames-online.github.io/sitemap.xml
+Sitemap:https://unblockedgames6x-online.github.io/sitemap.xml
